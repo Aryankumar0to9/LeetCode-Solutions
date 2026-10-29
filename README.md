@@ -20,6 +20,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -49,4 +50,8 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
