@@ -22,6 +22,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0039-combination-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -81,5 +82,6 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
