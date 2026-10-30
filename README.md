@@ -41,6 +41,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +85,16 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
