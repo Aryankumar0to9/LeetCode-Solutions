@@ -37,6 +37,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -56,6 +57,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
