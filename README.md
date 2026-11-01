@@ -22,6 +22,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0039-combination-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
