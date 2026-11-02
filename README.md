@@ -24,6 +24,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,5 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
