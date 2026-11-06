@@ -51,6 +51,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -65,6 +66,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
@@ -122,4 +124,8 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
