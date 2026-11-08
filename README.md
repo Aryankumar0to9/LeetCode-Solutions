@@ -26,6 +26,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -84,6 +85,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -128,4 +130,20 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
