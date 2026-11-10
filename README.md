@@ -31,6 +31,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
@@ -72,6 +73,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
