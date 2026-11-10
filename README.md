@@ -28,12 +28,14 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -107,6 +109,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -146,4 +149,8 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
