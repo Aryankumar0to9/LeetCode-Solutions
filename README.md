@@ -26,6 +26,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -44,6 +45,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
