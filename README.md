@@ -53,6 +53,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -79,6 +80,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -181,6 +183,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
@@ -198,4 +201,8 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
