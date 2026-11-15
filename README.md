@@ -30,6 +30,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0977-squares-of-a-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1267-count-servers-that-communicate](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -69,6 +70,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Divide and Conquer
@@ -84,6 +86,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -117,6 +120,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
 |  |
