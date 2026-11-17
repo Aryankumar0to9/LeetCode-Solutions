@@ -52,6 +52,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0125-valid-palindrome](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0680-valid-palindrome-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
@@ -89,6 +91,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0070-climbing-stairs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
