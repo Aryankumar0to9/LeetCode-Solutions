@@ -64,6 +64,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0680-valid-palindrome-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
