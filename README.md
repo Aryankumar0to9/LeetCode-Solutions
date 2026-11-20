@@ -20,6 +20,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -148,6 +150,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
