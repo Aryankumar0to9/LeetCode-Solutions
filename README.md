@@ -34,6 +34,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -94,6 +95,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0072-edit-distance](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -151,6 +153,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
