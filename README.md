@@ -67,6 +67,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0168-excel-sheet-column-title](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0680-valid-palindrome-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
