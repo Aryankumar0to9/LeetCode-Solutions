@@ -45,6 +45,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0169-majority-element](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -252,4 +254,20 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
