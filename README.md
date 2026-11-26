@@ -52,6 +52,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ To improve my Data Structures and Algorithms skills through consistent practice.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aryankumar0to9/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
